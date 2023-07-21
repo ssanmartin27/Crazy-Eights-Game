@@ -1,0 +1,86 @@
+﻿  Cpu.cpp
+C:\Users\samue\source\repos\Crazy Eights\Cpu.cpp(12,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\samue\source\repos\Crazy Eights\Cpu.cpp(15,64): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samue\source\repos\Crazy Eights\Cpu.cpp(15,27): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samue\source\repos\Crazy Eights\Cpu.cpp(16,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samue\source\repos\Crazy Eights\Cpu.cpp(24,20): warning C4018: '<': no coinciden signed/unsigned
+  Juego.cpp
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(14,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(15,26): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(27,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(70,94): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(70,72): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(155,53): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(155,50): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(170,23): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(170,20): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(196,95): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(196,72): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(201,96): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Juego.cpp(201,73): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Jugador.cpp
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(10,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(12,48): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(12,45): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(22,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(24,48): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(24,45): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(37,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(40,64): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(40,27): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(41,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Mano.cpp
+C:\Users\samue\source\repos\Crazy Eights\Mano.cpp(49,20): warning C4018: '<': no coinciden signed/unsigned
+  main.cpp
+  Generando código...
+C:\Users\samue\source\repos\Crazy Eights\Mano.cpp(38): warning C4715: 'Mano::removerCarta': no todas las rutas de acceso de control devuelven un valor
+C:\Users\samue\source\repos\Crazy Eights\Jugador.cpp(32): warning C4715: 'Jugador::seleccionarCarta': no todas las rutas de acceso de control devuelven un valor
+  Crazy Eights.vcxproj -> C:\Users\samue\source\repos\Crazy Eights\Debug\Crazy Eights.exe
